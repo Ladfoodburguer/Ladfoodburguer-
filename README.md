@@ -1,2 +1,2 @@
 # Ladfoodburguer-
-Somos uma empresa de fastfood food (Hambúrgaria 
+Somos uma empresa de fastfood food (Hambúrgaria)
